@@ -4,3 +4,4 @@ pandas
 numpy
 altair
 snowflake-snowpark-python[pandas]==0.7.0
+charset-normalizer=2.0.0
